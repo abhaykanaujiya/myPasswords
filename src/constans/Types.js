@@ -1,0 +1,2 @@
+export const GET_AUTH_DETAILS = 'GET_AUTH_DETAILS';
+
